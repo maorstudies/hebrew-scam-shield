@@ -1,7 +1,7 @@
 # Hebrew Scam Shield 🛡️
 **Adversarial synthetic data generation for robust Hebrew SMS scam detection**
 
-HIT · Large Language Models and Applications · Fall 2026
+HIT · Large Language Models and Applications
 Team: Maor Sabatani, Opal Asraf
 
 ## Project Motivation
