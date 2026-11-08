@@ -44,11 +44,11 @@ TBD
 TBD
 
 ## Repository Structure
-- slides/ — presentations (PPT + PDF)
-- code/ — Python files and notebooks
-- data/ — generated and collected data (JSON / CSV)
-- results/ — experiment results
-- visuals/ — figures and visual abstract
+- slides/ - presentations (PPT + PDF)
+- code/ - Python files and notebooks
+- data/ - generated and collected data (JSON / CSV)
+- results/ - experiment results
+- visuals/ - figures and visual abstract
 
 ## Team Members
 - Maor Sabatani
