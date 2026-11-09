@@ -2,6 +2,7 @@
 **Attacker-defender training for robust Hebrew SMS phishing (smishing) detection**
 
 HIT · Large Language Models and Applications
+
 Team: Maor Sabatani, Opal Asraf
 
 ## Project Motivation
