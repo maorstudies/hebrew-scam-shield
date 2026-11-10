@@ -17,10 +17,10 @@ Israeli phones receive a steady stream of Hebrew scam SMS messages (delayed pack
 ## Related Work
 | Work | What they did | Gap |
 |---|---|---|
-| Scam Shield (Chang et al., 2025) | LLM rewrites scams to look legit; one fine-tuning pass (English) | No iterative retraining |
-| Adversarial Robustness in Smishing Detection (arXiv 2608.12889) | Evasive SMS made with Gemini to attack classifiers (English, Swahili) | Retraining left as future work |
-| COVA (arXiv 2604.11752) | Attacker and victim LLM agents generate scam dialogues (English) | No detector in the loop |
-| SMS Spam Multilingual Collection | Spam SMS machine-translated to 21 languages | No Hebrew |
+| [Scam Shield](https://arxiv.org/abs/2511.01746) (Chang et al., 2025) | ... |
+| [Adversarial Robustness in Smishing Detection](https://arxiv.org/abs/2608.12889) | ... |
+| [COVA](https://arxiv.org/abs/2604.11752) | ... |
+| [SMS Spam Multilingual Collection](https://huggingface.co/datasets/dbarbedillo/SMS_Spam_Multilingual_Collection_Dataset) | ... |
 
 ## Visual Abstract
 TBD
